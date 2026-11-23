@@ -60,3 +60,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+# def turn(self, steps):
+#     i = self.DIRECTIONS.index(self.direction)
+#     self.direction = self.DIRECTIONS[(i + steps) % 4]
+
+# def turn_left(self):
+#     self.turn(-1)
+
+# def turn_right(self):
+#     self.turn(1)
